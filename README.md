@@ -1,7 +1,7 @@
 # <center>密码学编程选做2：给OpenSSL增加接口，用wNAF算法计算任意点乘</center>
 
 ### <center>作者：张浩旸  日期：2022/12/16  编程语言：C++  依赖库：OpenSSL</center>
-
+这是山东大学2022秋季算法课选做题作业
 ### 1.运行截图
 
 ![image-20221216150612460](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20221216150612460.png)
